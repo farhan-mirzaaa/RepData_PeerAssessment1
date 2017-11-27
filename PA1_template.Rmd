@@ -2,7 +2,9 @@
 title: "Reproducible Research: Course project 1"
 author: "Muhammad Farhan Mirza"
 date: "November 26, 2017"
-output: html_document
+output: 
+        md_document:
+                variant: markdown_github
 ---
 
 This R markdown file describes the first *Course Project* of **Reproducible Research** course on **Coursera**. This document also contains the implementation. One can use this document to reproduce the results of the following study.
